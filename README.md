@@ -1,14 +1,12 @@
 # Axe Sharpening
 
-A collection of sites, links, and tools. I like to keep my [axe sharp][#a-sharp-axe]. This list is by no means exhaustive, but when somebody asks how I keep up I point them here.
+A collection of sites, links, and tools. I like to keep my [axe sharp](#a-sharp-axe). This list is by no means exhaustive, but when somebody asks how I keep up I point them here.
 
 I consume most conent with [Feedbin][1], a hosted [open source][2] RSS reader.
 
-When I come across an article that I want to remember I'll add it to my [pseudo-blog](https://wrobbins.github.io/axe-sharpening/).
-
 ## Articles
 
-This will be a link to something like a GitHub Page.
+When I come across an article that I want to remember I'll add it to my [pseudo-blog](https://wrobbins.github.io/axe-sharpening/).
 
 ## Digests
 
