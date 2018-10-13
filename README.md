@@ -1,8 +1,10 @@
 # Axe Sharpening
 
-A collection of sites, links, and tools. I like to keep my [axe sharp][1]. This list is by no means exhaustive, but when somebody asks how I keep up I point them here.
+A collection of sites, links, and tools. I like to keep my [axe sharp][#a-sharp-axe]. This list is by no means exhaustive, but when somebody asks how I keep up I point them here.
 
-I consume most conent with [Feedbin][2], a hosted [open source][3] RSS reader.
+I consume most conent with [Feedbin][1], a hosted [open source][2] RSS reader.
+
+When I come across an article that I want to remember I'll add it to my [pseudo-blog](https://wrobbins.github.io/axe-sharpening/).
 
 ## Articles
 
@@ -35,8 +37,13 @@ This will be a link to something like a GitHub Page.
 
 ### A sharp axe
 
-This is some filler content to talk about keeping my leadership and engineering the axe sharp.
+Many articles add some color to this basic allegory:
 
-[1]: https://duckduckgo.com
-[2]: https://feedbin.com
-[3]: https://github.com/feedbin
+Lumberjack B:
+> How is it that I worked without breaks, but you cut more wood?
+
+Lumberjack A:
+> Because on those breaks I was sharpening my axe.
+
+[1]: https://feedbin.com
+[2]: https://github.com/feedbin
