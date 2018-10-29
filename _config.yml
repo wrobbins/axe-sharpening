@@ -12,7 +12,8 @@ github_username: wrobbins
 
 # Build settings
 markdown: kramdown
-theme: minima 
+#theme: minima 
+remote_theme: wrobbins/mostly-text
 plugins:
   - jekyll-feed
 
