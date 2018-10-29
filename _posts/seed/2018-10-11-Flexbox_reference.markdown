@@ -1,7 +1,6 @@
 ---
 layout: post
 title: Flexbox reference
-categories: css
 link: https://medium.freecodecamp.org/the-complete-illustrated-flexbox-tutorial-d35c085dbf35
 ---
 
