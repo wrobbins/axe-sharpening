@@ -1,18 +1,17 @@
 title: Noteworthy Articles 
 email: 
-description: >- # this means to ignore newlines until "baseurl:"
+description: >- 
   Articles that I find interesting enough to keep around. I am frequently
   asked how somebody in my position keeps up with trends on leadership and
   Software Craftsmanship. 
 
-baseurl: "/axe-sharpening" # the subpath of your site, e.g. /blog
-url: "https://wrobbins.github.io" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/axe-sharpening" 
+url: "https://wrobbins.github.io"
 
 github_username: wrobbins 
 
 # Build settings
 markdown: kramdown
-#theme: minima 
 remote_theme: wrobbins/mostly-text
 plugins:
   - jekyll-feed
