@@ -16,4 +16,5 @@ markdown: kramdown
 remote_theme: wrobbins/mostly-text
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
 
